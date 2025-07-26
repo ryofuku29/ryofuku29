@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ryofuku29&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryofuku29&theme=vue-dark&layout=compact" />
+</div>
 
-<!--
-**ryofuku29/ryofuku29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=wordpress,html,css,md,js,ts,react,next,remix,bootstrap,c,nodejs,postgres,docker" />
+<br>
 
-Here are some ideas to get you started:
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ryofuku29&theme=gruvbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/ryofuku29">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ryofuku29" />
+  </a>
+  <a href="https://github.com/ryofuku29">
+    <img height="20" src="https://img.shields.io/github/followers/ryofuku29?label=follow&logo=github&style=flat" />
+  </a>
+</p>
